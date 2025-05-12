@@ -1,0 +1,13 @@
+langchain-community
+python-dotenv
+pinecone-client
+langchain-pinecone
+langchain-google-genai
+pypdf
+fitz
+pymupdf
+pillow
+tqdm
+langchain_cohere
+rank-bm25
+langchain_groq
