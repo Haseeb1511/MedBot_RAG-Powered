@@ -1,13 +1,26 @@
 langchain-community
+langchain
 python-dotenv
-pinecone-client
-langchain-pinecone
+faiss-cpu
 langchain-google-genai
-pypdf
+
+
+unstructured[all-docs]
+pdfminer
+
 fitz
-pymupdf
 pillow
 tqdm
 langchain_cohere
 rank-bm25
 langchain_groq
+
+# audio recording
+
+pydub   # To convert and export audio to MP3
+PyAudio    # Required for microphone input
+SpeechRecognition
+ffmpeg    # ffmpeg is a powerful, open-source command-line tool used to process, convert, and manipulate audio and video files. In your case, it's essential for pydub to export audio in formats like MP3
+
+logging
+groq
