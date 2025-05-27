@@ -3,10 +3,11 @@ langchain
 python-dotenv
 faiss-cpu
 langchain-google-genai
+pymupdf
 
-
-unstructured[all-docs]
-pdfminer
+# unstructured[all-docs]
+# tesseract
+# pdfminer
 
 fitz
 pillow

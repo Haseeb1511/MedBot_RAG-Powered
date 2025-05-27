@@ -4,3 +4,4 @@ images
 med-bot
 .env
 med-bot-venv
+__pycache__
